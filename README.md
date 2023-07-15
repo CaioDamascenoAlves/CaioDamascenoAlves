@@ -1,6 +1,6 @@
 ## Olá eu sou Caio !
 
-- 💻 Hoje trabalho com Analise e Desenvolvimento de BI
+- 💻 Analista e Desenvolvedor de BI | Tableau
 - 📚 Cursando Sistemas de Informação - ICEA - UFOP
 - 📌 Estudando NestJs
 
