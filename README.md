@@ -43,4 +43,4 @@
 ## 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-caiodalves97@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiodalves97@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Damasceno%20Alves-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/caiodamascenoalves/](https://www.linkedin.com/in/caio-alves-45684214a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Caio%20Damasceno%20Alves-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-alves-45684214a/).
